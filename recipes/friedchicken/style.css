@@ -1,0 +1,29 @@
+* {
+    font-family: "Times New Roman", Georgia, Arial;
+}
+
+img {
+    height: 250px;
+    width: auto;
+}
+
+
+.section-header {
+    color:rgb(45, 45, 255); 
+    text-align: center;
+}
+
+.list {
+    background-color: rgb(136, 255, 136);
+}
+
+.ing {
+    color: black;
+    text-align: left;
+}
+
+#credit {
+    font-weight: bold;
+    color: red;
+    font-family: sans-serif;
+}
