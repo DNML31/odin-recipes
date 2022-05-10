@@ -9,7 +9,28 @@
 }
 
 .header {
+    border: 10px solid rgb(249, 55, 38);
+    margin: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    width: 400px;
+    height: auto;
     font-size: 24px;
     text-align: center;
-    background-color:aqua
+    color: white;
+    background-color:rgb(245, 173, 65);
+    box-sizing: border-box;
+}
+
+.recipe {
+    box-sizing: border-box;
+    margin: 20px;
+    width: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: red;
+    background-color: rgb(255, 255, 255);
+    border: 10px double black;
 }
